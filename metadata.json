@@ -1,0 +1,7 @@
+{
+  "name": "VIZAVISUAL - Ten Thousand Swords",
+  "description": "An epic xianxia-inspired interactive demo where you control hundreds of flying swords using hand gestures through MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
